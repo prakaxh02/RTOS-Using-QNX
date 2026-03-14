@@ -55,7 +55,7 @@ int main(void) {
 }
 ```
 ## Output
-![Output Image](exp1.png)
+![alt text](<WhatsApp Image 2026-03-13 at 10.51.00 AM.jpeg>)
 ---
 
 ## Result
