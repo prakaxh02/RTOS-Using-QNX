@@ -125,7 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
-
+![alt text](<WhatsApp Image 2026-03-13 at 11.28.32 AM.jpeg>)
 ---
 
 # Result
